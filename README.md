@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi there! 👋
 
-<!--
-**fassko/fassko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Kristaps. I love open source, mobile apps, cats and cares about inclusivity.
 
-Here are some ideas to get you started:
+I’m currently working on @Sharentic. Active contributor at [Swift Weekly Brief newsletter](https://swiftweekly.github.io/), various open source libraries and apps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Executed as a co-founder at a global-scale company [Qminder](https://www.qminder.com/) that serviced clients such as Uber, Lyft, At&T, Bolt, The Olympic Games and more.
+
+Author of [Dodies.lv](https://apps.apple.com/lv/app/dodies-lv/id1080800199), [Augi & Draugi](https://apps.apple.com/lv/app/augi-draugi/id1475145259), [Weather Latvia](https://apps.apple.com/lv/app/weather-latvia/id1350252673) iOS apps and [Qminder tvOS & iPadOS](https://apps.apple.com/us/app/qminder-queue-management/id533847552) apps.
+
+## Contacts
+
+- [Twitter: @fassko](https://twitter.com/fassko)
+- [kristaps.me](https://kristaps.me/)
+- [hello@kristaps.me](mailto:hello@kristaps.me)
+- [LinkedIn](https://www.linkedin.com/in/kristapsgrinbergs/)
+- [GitHub](https://github.com/fassko)
