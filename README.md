@@ -2,7 +2,7 @@
 
 I'm Kristaps. I love open source, mobile apps, cats and cares about inclusivity.
 
-I’m currently working on @Sharentic. Active contributor at [Swift Weekly Brief newsletter](https://swiftweekly.github.io/), various open source libraries and apps.
+I’m currently working on [Sharentic](https://www.sharentic.com/). Active contributor at [Swift Weekly Brief newsletter](https://swiftweekly.github.io/), various open source libraries and apps.
 
 Executed as a co-founder at a global-scale company [Qminder](https://www.qminder.com/) that serviced clients such as Uber, Lyft, At&T, Bolt, The Olympic Games and more.
 
