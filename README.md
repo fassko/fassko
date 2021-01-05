@@ -1,6 +1,10 @@
 ## Hi there! 👋
 
-I'm Kristaps. I love open source, mobile apps, cats and cares about inclusivity.
+I'm Kristaps.
+
+I'm iOS and other Apple technology developer - iPadOS, tvOS, watchOS, macOS.
+
+I love open source, mobile apps, cats and care about inclusivity.
 
 I’m currently working on [Sharentic](https://www.sharentic.com/). Active contributor at [Swift Weekly Brief newsletter](https://swiftweekly.github.io/), various open source libraries and apps.
 
