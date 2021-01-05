@@ -16,6 +16,6 @@ Author of [Dodies.lv](https://apps.apple.com/lv/app/dodies-lv/id1080800199), [Au
 
 - [Twitter: @fassko](https://twitter.com/fassko)
 - [kristaps.me](https://kristaps.me/)
-- [hello@kristaps.me](mailto:hello@kristaps.me)
+- [kristaps@hey.com](mailto:kristaps@hey.com)
 - [LinkedIn](https://www.linkedin.com/in/kristapsgrinbergs/)
 - [GitHub](https://github.com/fassko)
