@@ -12,6 +12,8 @@ Executed as a co-founder at a global-scale company [Qminder](https://www.qminder
 
 Author of [Dodies.lv](https://apps.apple.com/lv/app/dodies-lv/id1080800199), [Augi & Draugi](https://apps.apple.com/lv/app/augi-draugi/id1475145259), [Weather Latvia](https://apps.apple.com/lv/app/weather-latvia/id1350252673) iOS apps and [Qminder tvOS & iPadOS](https://apps.apple.com/us/app/qminder-queue-management/id533847552) apps.
 
+My hobbies are cycling, [orienteering sport](https://en.wikipedia.org/wiki/Orienteering) and travelling.
+
 ## Contacts
 
 - [Twitter: @fassko](https://twitter.com/fassko)
