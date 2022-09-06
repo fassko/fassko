@@ -4,9 +4,13 @@ I'm Kristaps.
 
 I'm Solidity Web3 Blockchain and iOS and other Apple technology developer (iPadOS, tvOS, watchOS, macOS).
 
-I love open source, mobile apps, cats and care about inclusivity.
+Currently, I'm the Crypto Cat at [Salto X](https://www.saltox.co/).
 
-My hobbies are cycling, [orienteering sport](https://en.wikipedia.org/wiki/Orienteering) and travelling.
+I blog regularly on [my blog](https://kristaps.me/blog/) about Web3 development, Swift, and technologies.
+
+I love open source, mobile apps, and cats and care about inclusivity.
+
+My hobbies are cycling, [orienteering sport](https://en.wikipedia.org/wiki/Orienteering), and traveling.
 
 ## Contacts
 
