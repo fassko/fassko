@@ -14,7 +14,7 @@
 
 ## Contacts
 
-- [Twitter: @fassko](https://twitter.com/fassko)
+- [Twitter](https://twitter.com/fassko)
 - [kristaps.me](https://kristaps.me/)
 - [kristaps@hey.com](mailto:kristaps@hey.com)
 - [LinkedIn](https://www.linkedin.com/in/kristapsgrinbergs/)
