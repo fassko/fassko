@@ -1,6 +1,6 @@
 ## Hi there, I'm Kristaps! 👋
 
-👨‍💻 I am a full-stack, iOS, and blockchain developer, currently working as a Developer Relations Engineer at [Flare Network](https://flare.network/).
+👨‍💻 I am a full-stack, iOS, and blockchain developer, currently working as a Developer Relations Engineer at [Flare Network](https://flare.network/). I previously worked as a technical founder and mobile/full-stack developer at multiple startups. Made products for global companies, including Uber, the Olympic Games, and the Healthcare Association of America.
 
 ✍️ On my [blog](https://kristaps.me/blog/), I frequently write about Web3 development, Swift, and other technologies.
 
