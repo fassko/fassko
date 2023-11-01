@@ -18,6 +18,6 @@
 - [kristaps.me](https://kristaps.me/)
 - [kristaps@hey.com](mailto:kristaps@hey.com)
 - [LinkedIn](https://www.linkedin.com/in/kristapsgrinbergs/)
-- [Telegram]https://t.me/kristapsgrinbergs()
+- [Telegram](https://t.me/kristapsgrinbergs)
 - [GitHub](https://github.com/fassko)
 - [Instagram](https://www.instagram.com/fassko/)
